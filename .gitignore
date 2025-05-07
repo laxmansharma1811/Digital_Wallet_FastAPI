@@ -1,0 +1,6 @@
+digital_wallet.db
+alembic.ini
+__pycache__/
+migrations/
+db/
+config/
